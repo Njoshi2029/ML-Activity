@@ -37,6 +37,6 @@ The project uses a custom dataset containing 40 student records with two primary
 5. Open the `Simple_Linear_Regression.ipynb` file and run the cells sequentially to see the data processing, visualizations, and model predictions.
 
 ---
-**Submitted By:** [Your Name / Roll No.]  
+**Submitted By:** [Nandini Joshi ]  
 **Class:** M.Sc. Data Science (Sem-II)  
 **College:** Dr. D. Y. Patil Arts, Commerce & Science College, Pimpri
